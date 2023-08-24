@@ -38,7 +38,7 @@ let eqnhistory=[];
     //     let store1 = historybox.value;
     //    alert('hii');
     //    console.log(store1);
-    }
+   // }
     function clrhistory(){
         historybox.innerHTML="<div style='display:none;></div>";
     }
