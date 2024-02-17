@@ -1,0 +1,22 @@
+.displaybox:focus,.inputbox:focus{
+ box-shadow: none;
+ outline: none;
+ border:1px solid lightgray;
+}
+
+.main{
+    display: block;
+}
+.main2{
+    display: none;
+}
+.history {
+    height: 200px;
+    overflow-x: auto;
+}
+
+.calciUI
+ {
+    width: 395px;
+    border:1px solid lightgray
+}
